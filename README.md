@@ -2,6 +2,8 @@
 
 A scalable backend API built with Node.js, Express.js, MongoDB, and Socket.IO.
 
+This project includes authentication, JWT authorization, email verification, task management, real-time updates, validation, and production-level backend architecture.
+
 ## Features
 
 - JWT Authentication & Authorization
