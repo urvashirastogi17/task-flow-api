@@ -1,0 +1,40 @@
+2026-05-24T15:36:38.232Z [INFO]: ✅ MongoDb connected
+2026-05-24T15:36:38.268Z [INFO]: App is listening on PORT 8000
+2026-05-24T15:38:10.985Z [INFO]: ✅ MongoDb connected
+2026-05-24T15:38:10.997Z [INFO]: App is listening on PORT 8000
+2026-05-24T15:42:54.383Z [ERROR]: ❌ MongoDb connection error: MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+    at NativeConnection.createClient (C:\Users\rasto\Documents\Task Flow API\node_modules\mongoose\lib\drivers\node-mongodb-native\connection.js:234:11)
+    at NativeConnection.openUri (C:\Users\rasto\Documents\Task Flow API\node_modules\mongoose\lib\connection.js:1086:34)
+    at Mongoose.connect (C:\Users\rasto\Documents\Task Flow API\node_modules\mongoose\lib\mongoose.js:475:15)
+    at connectDB (file:///C:/Users/rasto/Documents/Task%20Flow%20API/src/db/index.js:6:24)
+    at file:///C:/Users/rasto/Documents/Task%20Flow%20API/src/index.js:19:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:325:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:606:24)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5)
+2026-05-24T15:42:54.396Z [INFO]: App is listening on PORT 8000
+2026-05-24T15:43:12.615Z [ERROR]: ❌ MongoDb connection error: MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+    at NativeConnection.createClient (C:\Users\rasto\Documents\Task Flow API\node_modules\mongoose\lib\drivers\node-mongodb-native\connection.js:234:11)
+    at NativeConnection.openUri (C:\Users\rasto\Documents\Task Flow API\node_modules\mongoose\lib\connection.js:1086:34)
+    at Mongoose.connect (C:\Users\rasto\Documents\Task Flow API\node_modules\mongoose\lib\mongoose.js:475:15)
+    at connectDB (file:///C:/Users/rasto/Documents/Task%20Flow%20API/src/db/index.js:6:24)
+    at file:///C:/Users/rasto/Documents/Task%20Flow%20API/src/index.js:19:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:325:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:606:24)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5)
+2026-05-24T15:43:12.623Z [INFO]: App is listening on PORT 8000
+2026-05-24T15:43:21.465Z [INFO]: ✅ MongoDb connected
+2026-05-24T15:43:21.476Z [INFO]: App is listening on PORT 8000
+2026-05-24T15:57:09.897Z [INFO]: ✅ MongoDb connected
+2026-05-24T15:57:09.952Z [INFO]: App is listening on PORT 8000
+2026-05-24T15:57:28.319Z [INFO]: ✅ MongoDb connected
+2026-05-24T15:57:28.332Z [INFO]: App is listening on PORT 8000
+2026-05-24T16:12:34.723Z [INFO]: ✅ MongoDb connected
+2026-05-24T16:12:34.757Z [INFO]: App is listening on PORT 8000
+2026-05-24T16:14:37.485Z [INFO]: ✅ MongoDb connected
+2026-05-24T16:14:37.507Z [INFO]: App is listening on PORT 8000
+2026-05-24T16:16:43.441Z [INFO]: ✅ MongoDb connected
+2026-05-24T16:16:43.462Z [INFO]: App is listening on PORT 8000
+2026-05-24T16:20:19.818Z [INFO]: ✅ MongoDb connected
+2026-05-24T16:20:19.874Z [INFO]: App is listening on PORT 8000
+2026-05-24T16:24:45.033Z [INFO]: ✅ MongoDb connected
+2026-05-24T16:24:45.065Z [INFO]: App is listening on PORT 8000
